@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: f8726aadd860651498c931b2882b88aa
+timeCreated: 1481652283
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mixed sprite_chickenLevel2Transp - Flipped_0
+    21300002: mixed sprite_chickenLevel2Transp - Flipped_1
+    21300004: mixed sprite_chickenLevel2Transp - Flipped_2
+    21300006: mixed sprite_chickenLevel2Transp - Flipped_3
+    21300008: mixed sprite_chickenLevel2Transp - Flipped_4
+    21300010: mixed sprite_chickenLevel2Transp - Flipped_5
+    21300012: mixed sprite_chickenLevel2Transp - Flipped_6
+    21300014: mixed sprite_chickenLevel2Transp - Flipped_7
+    21300016: mixed sprite_chickenLevel2Transp - Flipped_8
+    21300018: mixed sprite_chickenLevel2Transp - Flipped_9
+    21300020: mixed sprite_chickenLevel2Transp - Flipped_10
+    21300022: mixed sprite_chickenLevel2Transp - Flipped_11
+    21300024: mixed sprite_chickenLevel2Transp - Flipped_12
+    21300026: mixed sprite_chickenLevel2Transp - Flipped_13
+    21300028: mixed sprite_chickenLevel2Transp - Flipped_14
+    21300030: chickBRightToLeft_0
+    21300032: chickBRightToLeft_1
+    21300034: chickBRightToLeft_2
+    21300036: chickBRightToLeft_3
+    21300038: chickBRightToLeft_4
+    21300040: chickBRightToLeft_5
+    21300042: chickBRightToLeft_6
+    21300044: chickBRightToLeft_7
+    21300046: chickBRightToLeft_8
+    21300048: chickBRightToLeft_9
+    21300050: chickBRightToLeft_10
+    21300052: chickBRightToLeft_11
+    21300054: chickBRightToLeft_12
+    21300056: chickBRightToLeft_13
+    21300058: chickBRightToLeft_14
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chickBRightToLeft_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chickBRightToLeft_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 620
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chickBRightToLeft_2
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 620
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chickBRightToLeft_3
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 620
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chickBRightToLeft_4
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 620
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chickBRightToLeft_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chickBRightToLeft_6
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 310
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chickBRightToLeft_7
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 310
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chickBRightToLeft_8
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 310
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chickBRightToLeft_9
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 310
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chickBRightToLeft_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chickBRightToLeft_11
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chickBRightToLeft_12
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 0
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chickBRightToLeft_13
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 0
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: chickBRightToLeft_14
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 0
+        width: 310
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
